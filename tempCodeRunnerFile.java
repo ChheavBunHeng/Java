@@ -1,9 +1,11 @@
-import java.awt.*; 
+// import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
 
-class Tem   
+class Exam1 extends Frame implements ActionListener
 {
-    public static void main(String[] args) {
-        System.out.println("Hello world");
+    Exam1()
+    {
         
     }
 }
